@@ -1,11 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Meenakshi A M</h1>
-<h3 align="center">A passionate engineering student pursuing my degree in b-tech,IT from LBSITW, Trivandrum, India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)](https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif)">
+<h3 align="center">A passionate engineering student pursuing my degree in b-tech,ITfrom India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiam&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenakshiam" alt="meenakshiam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -27,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshiam&show_icons=true&locale=en" alt="meenakshiam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshiam&" alt="meenakshiam" /></p>
+
