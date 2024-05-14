@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meenakshi A M</h1>
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech,ITfrom India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif](https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiam&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiam" /> </p>
 
