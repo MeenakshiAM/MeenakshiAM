@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Meenakshi A M</h1>
 <h3 align="center">A passionate engineering student pursuing my degree in b-tech,IT from LBSITW, Trivandrum, India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)](https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiam&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiam" /> </p>
 
