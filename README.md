@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **phython, java, webdev**
+- 💬 Ask me about **python, java, webdev**
 
 - 📫 How to reach me **miniaalayam@gmail.com**
 
