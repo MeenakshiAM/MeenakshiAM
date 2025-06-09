@@ -55,6 +55,19 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 
 ---
 
+## 🏅 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/meenakshiam?label=Follow&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/meenakshiam?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/meenakshiam/My-Portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-%F0%9F%94%A5%202023-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-Active-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+---
+
+
 ## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeenakshiAM&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
