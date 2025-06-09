@@ -58,17 +58,11 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ## 🏅 Badges
 
 <p align="center">
-  ![1724474335231](https://github.com/user-attachments/assets/4d3b7d34-4771-47dd-8359-3417deef0d21)
-  ![1728774714668](https://github.com/user-attachments/assets/187e396a-ddea-4dfa-bcf2-e6a821ed7fbd)
-![1728799227607](https://github.com/user-attachments/assets/91022b0a-3f72-4a89-885e-a6361e177f1a)
-![1730247796501](https://github.com/user-attachments/assets/ad6e4866-1027-4a0e-bc01-fa12c13e13e2)
-![1730463767592](https://github.com/user-attachments/assets/f833cbca-c592-4901-b15a-7aab04195f8a)
-
-
-
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/github-pr-badge.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/postman-yolo-badge.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/hacktoberfest-2023-badge.png" width="120"/>
+  <img src="https://github.com/user-attachments/assets/4d3b7d34-4771-47dd-8359-3417deef0d21" width="120"/>
+  <img src="https://github.com/user-attachments/assets/187e396a-ddea-4dfa-bcf2-e6a821ed7fbd" width="120"/>
+  <img src="https://github.com/user-attachments/assets/91022b0a-3f72-4a89-885e-a6361e177f1a" width="120"/>
+  <img src="https://github.com/user-attachments/assets/ad6e4866-1027-4a0e-bc01-fa12c13e13e2" width="120"/>
+  <img src="https://github.com/user-attachments/assets/f833cbca-c592-4901-b15a-7aab04195f8a" width="120"/>
 </p>
 
 ---
