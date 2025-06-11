@@ -17,7 +17,7 @@
 ```yaml
 Name: Meenakshi A M
 Code: ['Java', 'Python', 'JavaScript']
-Web: ['React.js', 'Node.js', 'Vite']
+Web: ['React.js', 'Spring Boot', 'Vite']
 AI: ['Machine Learning', 'NLP', 'ChatGPT']
 Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ```
