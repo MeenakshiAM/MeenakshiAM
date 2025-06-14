@@ -1,3 +1,5 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meenakshi!;AI+Engineer+%7C+Web+Wizard+%7C+Tech+Dreamer+%F0%9F%8C%99" alt="Typing SVG" />
 </h1>
