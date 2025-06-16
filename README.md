@@ -87,7 +87,9 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 
 ---
 
-## 🌐 Let's Connect 
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px" /> Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/meenakshi-a-m/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
