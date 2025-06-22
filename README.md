@@ -5,15 +5,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/212/212548.gif" width="100%" />
-</p>
+ ![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/4f5e5ead-f777-4072-b795-72b5586b3875)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meenakshiam&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 
-  <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
+
+![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/3f245621-d4c7-487c-a959-3bda685fcda4)
+
+ 
 
 ## 🧠 About Me
 
