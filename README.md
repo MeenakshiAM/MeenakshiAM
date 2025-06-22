@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <img src="https://giffiles.alphacoders.com/212/212548.gif" width="100%" />
 </p>
 
 <p align="center">
