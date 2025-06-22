@@ -11,6 +11,8 @@
 ![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/3f245621-d4c7-487c-a959-3bda685fcda4)
 
  
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
+
 
 ## 🧠 About Me
 
