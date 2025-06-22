@@ -76,7 +76,7 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ---
 
 
-## 📊 GitHub Stats 
+## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="50px" /> GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeenakshiAM&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=meenakshiam&theme=tokyonight&hide_border=true" width="48%"/>
