@@ -12,7 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=meenakshiam&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
----
+
+  <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 ## 🧠 About Me
 
@@ -24,7 +25,7 @@ AI: ['Machine Learning', 'NLP', 'ChatGPT']
 Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ```
 
----
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 ## 🛠️ Tech Stack 
 
@@ -55,7 +56,7 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 ## 🏅 Badges
 
@@ -73,7 +74,7 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 
 </p>
 
----
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="50px" /> GitHub Stats 
@@ -85,7 +86,7 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshiam&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px" /> Let's Connect
@@ -104,7 +105,7 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 
 
 
----
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=footer&text=Thanks+for+visiting+💙&fontSize=30"/>
