@@ -14,17 +14,21 @@
 
 ## 🧠 About Me
 
-<p>Hey! I'm **Meenakshi A.M.** — a beginner **Java developer** with a big heart for learning and a deep love for building things with purpose 🌼
+<p style="font-family: 'Segoe UI', 'Poppins', 'Roboto', sans-serif; font-size: 16px; line-height: 1.6;">
+  Hey! I'm <strong>Meenakshi A.M.</strong> — a beginner Java developer with a big heart for learning and a deep love for building things with purpose 🌼
+  <br><br>
+  Right now, I'm exploring the world of <strong>Spring Boot</strong>, <strong>Java backend development</strong>, and gradually learning how to connect all the moving pieces of real-world web applications 🛠️
+  <br><br>
+  I believe in starting small, staying consistent, and celebrating every little win ✨  
+  <br>
+  Each commit I push is a step forward — and I’m just getting started.
+</p>
 
-Right now, I'm exploring the world of **Spring Boot**, **Java backend development**, and gradually learning how to connect all the moving pieces of real-world web applications 🛠️
-
-I believe in starting small, staying consistent, and celebrating every little win ✨  
-Each commit I push is a step forward — and I’m just getting started</p>
 ```yaml
 Name: Meenakshi A M
 Code: ['Java', 'Python', 'JavaScript']
 Web: ['React.js', 'Spring Boot', 'Vite']
-AI: ['Machine Learning', 'NLP', 'ChatGPT']
+AI: ['Machine Learning', 'ChatGPT']
 Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ```
 
