@@ -14,6 +14,12 @@
 
 ## 🧠 About Me
 
+<p>Hey! I'm **Meenakshi A.M.** — a beginner **Java developer** with a big heart for learning and a deep love for building things with purpose 🌼
+
+Right now, I'm exploring the world of **Spring Boot**, **Java backend development**, and gradually learning how to connect all the moving pieces of real-world web applications 🛠️
+
+I believe in starting small, staying consistent, and celebrating every little win ✨  
+Each commit I push is a step forward — and I’m just getting started</p>
 ```yaml
 Name: Meenakshi A M
 Code: ['Java', 'Python', 'JavaScript']
