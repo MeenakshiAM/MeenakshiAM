@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 
-## 🧠 About Me
+## <img src="https://github.com/user-attachments/assets/d68fe8db-7563-4ad7-848d-eef41026364c" width=50px > About Me
 
 <p style="font-family: 'Segoe UI', 'Poppins', 'Roboto', sans-serif; font-size: 16px; line-height: 1.6;">
   Hey! I'm <strong>Meenakshi A.M.</strong> — a beginner Java developer with a big heart for learning and a deep love for building things with purpose 🌼
