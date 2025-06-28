@@ -97,8 +97,8 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshiam&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeenakshiAM&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px" /> Let's Connect
 
