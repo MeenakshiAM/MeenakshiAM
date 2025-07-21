@@ -38,6 +38,7 @@ AI: ['Machine Learning', 'ChatGPT']
 Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
 ```
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 ## <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Man%20Technologist.png" width=70px>  Tech Stack 
 
