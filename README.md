@@ -101,6 +101,8 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshiam&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
+![Snake animation](https://github.com/MeenakshiAM/MeenakshiAM/blob/output/github-contribution-grid-snake.svg)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeenakshiAM&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
