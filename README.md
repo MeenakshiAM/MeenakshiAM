@@ -84,7 +84,9 @@ Hobbies: ['Mystery Games', 'Sketching', 'Coding AIs']
   <img src="https://github.com/user-attachments/assets/f833cbca-c592-4901-b15a-7aab04195f8a" width="120"/>
   <img src="https://github.com/user-attachments/assets/8f461f92-907d-4473-9f4b-c275c3971148" width="120"/>
   <img src="https://github.com/user-attachments/assets/ec3dd6c7-cac6-4134-9b5b-76794848d37d" width="120"/>
- 
+  <img src="https://github.com/user-attachments/assets/87e7c7e6-4fe2-4ef9-9805-a4884002c424" width="120"/>
+
+
 
 
 </p>
