@@ -6,7 +6,7 @@
 
 
 
-<img src = "https://github.com/user-attachments/assets/e0e28f58-e4f1-42be-a53a-95a7449aedf6" width =200 hight = 600>
+
 
 ![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/3f245621-d4c7-487c-a959-3bda685fcda4)
  
