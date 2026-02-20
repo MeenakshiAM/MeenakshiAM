@@ -29,6 +29,7 @@
  📝 Resume :https://drive.google.com/file/d/1528rRmenIoKHOkXN-ChMDlQ9G-PIyDzM/view?usp=sharing
 
 <br>
+![WhatsApp Image 2026-02-18 at 00 46 16](https://github.com/user-attachments/assets/7b4505cb-18ef-4b4d-ad02-2f80607bda49)
 
 ```yaml
 Name: Meenakshi A M
