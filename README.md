@@ -4,13 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meenakshi!;AI+Engineer+%7C+Web+Wizard+%7C+Tech+Dreamer+%F0%9F%8C%99" alt="Typing SVG" />
 </h1>
 
-![WhatsApp Image 2026-02-18 at 00 46 16](https://github.com/user-attachments/assets/5090f7a2-28d9-434b-a526-5272467e2fa4)
-
-<img src ="https://github.com/user-attachments/assets/5090f7a2-28d9-434b-a526-5272467e2fa4">
 
 
 
-![ezgif-2c78dba231eae2](https://github.com/user-attachments/assets/3f245621-d4c7-487c-a959-3bda685fcda4)
+
 
  
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
