@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Meenakshi!;Software+Developer+%7C+Java+%7C+Backend+Engineering" alt="Typing SVG" />
 </h1>
 
-
+![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=MeenakshiAM&data=followers,repositories,stars,commits&theme=dark)
 
 
 
