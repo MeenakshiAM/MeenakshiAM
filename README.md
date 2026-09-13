@@ -18,8 +18,52 @@ Currently focused on strengthening my Java fundamentals and exploring how reliab
 
 <br>
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
+
+## Projects
+
+### → [QuietQuill](https://github.com/MeenakshiAM/QuietQuill?utm_source=chatgpt.com)
+
+A full-stack personal diary application built while exploring how a frontend, backend, authentication, and database fit together.
+
+**Built with:** Java · Spring Boot · React · MySQL · JWT
+
+**What I worked on:** REST APIs · Authentication · JWT · Pagination · Filtering · Database persistence
+
+---
+
+### → [UniKart](https://github.com/MeenakshiAM/UniKart?utm_source=chatgpt.com)  [Made as a part of clg Final yr Project]
+
+A student marketplace for buying, selling, and offering products and services. Built as a full-stack project with separate services for authentication, products, services, payments, and reporting.
+
+**Built with:** React · Node.js · Express · MongoDB · Cloudinary · Razorpay
+
+**Features:** Buyer/Seller/Admin roles · Seller approval flow · Payments · Reviews · Reporting · Commission system
+
+---
+
+### → [DSA](https://github.com/MeenakshiAM/DSA?utm_source=chatgpt.com)
+
+A collection of data structures, algorithms, and problem-solving implementations written while strengthening my DSA fundamentals.
+
+**Language:** Java
+
+**Topics:** Arrays · Strings · Linked Lists · Trees · Graphs · Recursion · Bit Manipulation · Sliding Window
+
+---
+
+### → [Java Core](https://github.com/MeenakshiAM/JAVA-CORE--Basics-to-Advanced.?utm_source=chatgpt.com)
+
+The repository where I break Java code to understand what is actually happening underneath.
+
+It starts with core language concepts and OOP, and is gradually expanding into exceptions, I/O, streams, threads, concurrency, networking, and sockets.
+
+**Currently exploring:** Oops . Threads · Runnable · Synchronization · Shared State · Monitors · `wait()` / `notify()` · Executors · Concurrent Collections
+
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
+
+
 
 ## <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Man%20Technologist.png" width=70px>  Tech Stack 
 
@@ -47,29 +91,9 @@ Currently focused on strengthening my Java fundamentals and exploring how reliab
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
-## Projects
 
-### -> QuietQuill
 
-A personal diary application built with a React frontend and Spring Boot backend.
 
-Tech: Java · Spring Boot · React · MySQL · JWT
-
-### -> Java DSA
-
-A collection of my data structures and algorithms implementations and problem-solving practice.
-```
-Topics: Arrays · Strings · Linked Lists · Trees · Graphs · Recursion · Bit Manipulation · Sliding Window
-```
-### -> Java Core
-
-A hands-on exploration of Java's concurrency model, progressing from basic threads to synchronization, shared state, monitors, executors and concurrent collections.
-```
-Currently learning: Thread → Runnable → Synchronization → Monitors → wait/notify → Executors
-
-```
-
-<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%" height="1.8px" />
 
 
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="50px" /> GitHub Stats 
