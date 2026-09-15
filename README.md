@@ -11,7 +11,7 @@
 ## <img src="https://github.com/user-attachments/assets/d68fe8db-7563-4ad7-848d-eef41026364c" width=50px > About Me
 
 <p style="font-family: 'Segoe UI', 'Poppins', 'Roboto', sans-serif; font-size: 16px; line-height: 1.6;">
-## About Me
+
 
 Hi, I'm Meenakshi. I'm a 2026 graduate, about to step into the corporate world, and somewhere along the way I've realized that most of what I've learned so far is... kind of a mess.
 
