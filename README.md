@@ -11,9 +11,23 @@
 ## <img src="https://github.com/user-attachments/assets/d68fe8db-7563-4ad7-848d-eef41026364c" width=50px > About Me
 
 <p style="font-family: 'Segoe UI', 'Poppins', 'Roboto', sans-serif; font-size: 16px; line-height: 1.6;">
- I'm a software developer interested in understanding how software works beyond the surface from application development and backend systems to concurrency, networking, and security.
+## About Me
 
-Currently focused on strengthening my Java fundamentals and exploring how reliable, concurrent systems are built.
+Hi, I'm Meenakshi.
+
+I'm a 2026 graduate, about to step into the corporate world, and somewhere along the way I've realized that most of what I've learned so far is... kind of a mess.
+
+I know things. I've built things. I've solved problems. I've studied DSA. But somewhere between learning for exams, building projects, and trying to keep up with everything, a lot of it became fragmented — things I could use without really understanding, things I memorized and forgot, and things I thought I understood until I had to actually use them.
+
+So, I'm starting over. Not completely — but properly.
+
+I'm going back through Java, OOP, DSA, I/O, threads, concurrency, networking and eventually security, trying to connect the pieces instead of just collecting them.
+
+There will probably be a lot of bad code, forgotten concepts, stupid mistakes, and moments where I wonder why I ever thought I understood this.
+
+
+This a record of me figuring things out, unlearning some of what I thought I knew, and slowly building it back better.
+
  
 
 <br>
